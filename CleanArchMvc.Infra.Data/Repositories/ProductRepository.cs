@@ -12,47 +12,47 @@ namespace CleanArchMvc.Infra.Data.Repositories
 {
     public class ProductRepository : IProductRepository
     {
-        private ApplicationDbContext _context;
+        private ApplicationDbContext _productContext;
         public ProductRepository(ApplicationDbContext context)
         {
-            _context = context;
+            _productContext = context;
         }
 
         public async Task<Product> CreateAsync(Product product)
         {
-            _context.Add(product);
-            await _context.SaveChangesAsync();
+            _productContext.Add(product);
+            await _productContext.SaveChangesAsync();
             return product;
         }
 
         public async Task<Product> GetByIdAsync(int? id)
         {
-            return await _context.FindAsync<Product>(id);
+            return await _productContext.FindAsync<Product>(id);
         }
 
         public async  Task<Product> GetProductCategoryAsync(int? id)
         {
-            return await _context.Products
+            return await _productContext.Products
                             .Include(x => x.Category)
                             .SingleOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<IEnumerable<Product>> GetProductsAsync()
         {
-            return await _context.Products.ToListAsync<Product>();
+            return await _productContext.Products.ToListAsync<Product>();
         }
 
         public async Task<Product> RemoveAsync(Product product)
         {
-            _context.Remove(product);
-            await _context.SaveChangesAsync();
+            _productContext.Remove(product);
+            await _productContext.SaveChangesAsync();
             return product;
         }
 
         public async Task<Product> UpdateAsync(Product product)
         {
-            _context.Update(product);
-            await _context.SaveChangesAsync();
+            _productContext.Update(product);
+            await _productContext.SaveChangesAsync();
             return product;
         }
     }

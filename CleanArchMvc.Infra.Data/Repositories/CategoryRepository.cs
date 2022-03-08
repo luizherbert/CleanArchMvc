@@ -12,40 +12,40 @@ namespace CleanArchMvc.Infra.Data.Repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
-        private ApplicationDbContext _context;
+        private ApplicationDbContext _categoryContext;
         public CategoryRepository(ApplicationDbContext context)
         {
-            _context = context;
+            _categoryContext = context;
         }
 
         public async Task<Category> CreateAsync(Category category)
         {
-            _context.Add(category);
-            await _context.SaveChangesAsync();
+            _categoryContext.Add(category);
+            await _categoryContext.SaveChangesAsync();
             return category;
         }
 
         public async Task<Category> GetByIdAsync(int? id)
         {
-            return await _context.FindAsync<Category>(id);
+            return await _categoryContext.FindAsync<Category>(id);
         }
 
         public async Task<IEnumerable<Category>> GetCategoriesAsync()
         {
-            return await _context.Categories.ToListAsync<Category>();
+            return await _categoryContext.Categories.ToListAsync<Category>();
         }
 
         public async Task<Category> RemoveAsync(Category category)
         {
-            _context.Remove(category);
-            await _context.SaveChangesAsync();
+            _categoryContext.Remove(category);
+            await _categoryContext.SaveChangesAsync();
             return category;
         }
 
         public async Task<Category> UpdateAsync(Category category)
         {
-            _context.Update(category);
-            await _context.SaveChangesAsync();
+            _categoryContext.Update(category);
+            await _categoryContext.SaveChangesAsync();
             return category;
         }
     }
