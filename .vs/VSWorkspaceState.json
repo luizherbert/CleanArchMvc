@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CleanArchMvc.Infra.Data",
+    "\\CleanArchMvc.Infra.Data\\Repositories"
   ],
   "SelectedNode": "\\CleanArchMvc.sln",
   "PreviewInSolutionExplorer": false
