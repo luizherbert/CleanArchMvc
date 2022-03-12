@@ -2,7 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\CleanArchMvc.Application",
-    "\\CleanArchMvc.Application\\Mappings"
+    "\\CleanArchMvc.Infra.IoC"
   ],
   "SelectedNode": "\\CleanArchMvc.sln",
   "PreviewInSolutionExplorer": false
