@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CleanArchMvc.Application",
+    "\\CleanArchMvc.Application\\Mappings"
   ],
   "SelectedNode": "\\CleanArchMvc.sln",
   "PreviewInSolutionExplorer": false
