@@ -760,3 +760,6 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\M
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

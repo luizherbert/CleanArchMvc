@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vqn/mxn6mW5YKua1yXGoSb62Gfr615OHVkOtuI6sqkRPf/Oz7raDb8tSscAe95RjWimdHNWKLJ5/njTTa7rtkg==",
+  "dgSpecHash": "a+fo2fWQjrZXdiiHEIagE5a5sSa/snk09Qhcx/HVe1b7nKuAMmnJ+1c5T3qxLDDUld2q6N9M0nKeTFFDPKAhgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\p017334\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\p017334\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\p017334\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\p017334\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\p017334\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.4\\microsoft.aspnetcore.mvc.razor.extensions.5.0.4.nupkg.sha512",
     "C:\\Users\\p017334\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.4\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.4.nupkg.sha512",
     "C:\\Users\\p017334\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.4\\microsoft.aspnetcore.razor.language.5.0.4.nupkg.sha512",
