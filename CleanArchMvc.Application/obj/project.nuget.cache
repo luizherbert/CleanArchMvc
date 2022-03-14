@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qt3B88SU2AzmDq1FKJjpq5eNBuQu/RE6a+cZpxPJ/TBf1yExDknizx8vfP2JCca25DkOCwSG6/+uf2LPzuBH9w==",
+  "dgSpecHash": "7sQgXth2+ciqrKQt0glTk1zei0jk0gXiuGFu75JZgTBj7OsU4MG4Tw1dw3vnVBtT34zT3K8I9EALioa/9JDrCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "projectFilePath": "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p017334\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\p017334\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
