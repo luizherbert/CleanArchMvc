@@ -19,15 +19,8 @@ using CleanArchMvc.WebUI;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\Views\_ViewImports.cshtml"
-using CleanArchMvc.WebUI.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1311013e6f6b51f980c5bc0a00a42176d8b39d8b", @"/Views/Home/Privacy.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"df61abbf68ae068748b8f835392dddbdc21b4154", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ac013faccec28dd5dc13a1685f25ef2989724b2b", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Privacy : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

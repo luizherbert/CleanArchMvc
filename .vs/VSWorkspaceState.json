@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\CleanArchMvc.Application",
-    "\\CleanArchMvc.Infra.IoC"
+    "\\CleanArchMvc.Infra.IoC",
+    "\\CleanArchMvc.WebUI",
+    "\\CleanArchMvc.WebUI\\Controllers",
+    "\\CleanArchMvc.WebUI\\Views"
   ],
   "SelectedNode": "\\CleanArchMvc.sln",
   "PreviewInSolutionExplorer": false

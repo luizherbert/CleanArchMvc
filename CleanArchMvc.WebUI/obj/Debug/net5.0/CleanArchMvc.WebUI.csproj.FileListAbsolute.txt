@@ -737,7 +737,6 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\s
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorCoreGenerate.cache
-C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -769,3 +768,7 @@ C:\Users\p017334\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\R
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs

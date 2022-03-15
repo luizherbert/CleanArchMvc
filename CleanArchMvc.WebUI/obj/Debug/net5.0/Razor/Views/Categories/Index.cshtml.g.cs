@@ -19,15 +19,8 @@ using CleanArchMvc.WebUI;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\Views\_ViewImports.cshtml"
-using CleanArchMvc.WebUI.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f79fe7c2a15aae089d81c2c7c5add362fabdfe44", @"/Views/Categories/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"df61abbf68ae068748b8f835392dddbdc21b4154", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ac013faccec28dd5dc13a1685f25ef2989724b2b", @"/Views/_ViewImports.cshtml")]
     public class Views_Categories_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<CleanArchMvc.Application.DTOs.CategoryDTO>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Create", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -83,7 +76,7 @@ using CleanArchMvc.WebUI.Models;
 #line hidden
 #nullable disable
             WriteLiteral("</h2>\r\n</div>\r\n<hr />\r\n<div class=\"row\">\r\n    <div class=\"col-md-12\">\r\n        <div>\r\n            <div class=\"pull-left\">\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe447588", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe447386", async() => {
                 WriteLiteral("\r\n                    <span title=\"Register New\" class=\"fas fa-plus\"></span> Register New\r\n                ");
             }
             );
@@ -125,7 +118,7 @@ using CleanArchMvc.WebUI.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n                    </td>\r\n                    <td>\r\n                        <div class=\"btn-group\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe4410310", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe4410108", async() => {
                 WriteLiteral("\r\n                                <span title=\"Edit\" class=\"fas fa-edit\">Edit</span>\r\n                            ");
             }
             );
@@ -158,7 +151,7 @@ using CleanArchMvc.WebUI.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe4412798", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe4412596", async() => {
                 WriteLiteral("\r\n                                <span title=\"Details\" class=\"fas fa-info-circle\">Details</span>\r\n                            ");
             }
             );
@@ -191,7 +184,7 @@ using CleanArchMvc.WebUI.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe4415302", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f79fe7c2a15aae089d81c2c7c5add362fabdfe4415100", async() => {
                 WriteLiteral("\r\n                                <span title=\"Delete\" class=\"fas fa-trash-alt\">Delete</span>\r\n                            ");
             }
             );

@@ -19,15 +19,8 @@ using CleanArchMvc.WebUI;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 2 "C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\Views\_ViewImports.cshtml"
-using CleanArchMvc.WebUI.Models;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"83e8cfc7628abf8224a0682ab737da213ba5dbff", @"/Views/Categories/Details.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"df61abbf68ae068748b8f835392dddbdc21b4154", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ac013faccec28dd5dc13a1685f25ef2989724b2b", @"/Views/_ViewImports.cshtml")]
     public class Views_Categories_Details : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CleanArchMvc.Application.DTOs.CategoryDTO>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Edit", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -71,7 +64,7 @@ using CleanArchMvc.WebUI.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n<h2>ViewData[\"Title\"]</h2>\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e8cfc7628abf8224a0682ab737da213ba5dbff5359", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e8cfc7628abf8224a0682ab737da213ba5dbff5157", async() => {
                 WriteLiteral("\r\n    <div class=\"form-horizontal\">\r\n        <hr />\r\n        <dl class=\"row\">\r\n            <dt class=\"col-sm-2\">\r\n                ");
 #nullable restore
 #line 14 "C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\Views\Categories\Details.cshtml"
@@ -89,7 +82,7 @@ using CleanArchMvc.WebUI.Models;
 #line hidden
 #nullable disable
                 WriteLiteral("\r\n            </dd>\r\n        </dl>\r\n        <div class=\"form-group\">\r\n            <div class=\"col-md-offset-2 col-md-10\">\r\n                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e8cfc7628abf8224a0682ab737da213ba5dbff6531", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e8cfc7628abf8224a0682ab737da213ba5dbff6329", async() => {
                     WriteLiteral("Edit");
                 }
                 );
@@ -121,7 +114,7 @@ using CleanArchMvc.WebUI.Models;
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e8cfc7628abf8224a0682ab737da213ba5dbff8892", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "83e8cfc7628abf8224a0682ab737da213ba5dbff8690", async() => {
                     WriteLiteral("Back to List");
                 }
                 );
