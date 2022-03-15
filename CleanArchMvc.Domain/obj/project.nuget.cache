@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nMtR9RHqHbwaHC+1MYmEmOF3oB8tMhPFoSsb34b1yqOx0C1+ICI44tCZDiQbi5enUo7TMzfh2m8Ji/saoaVycw==",
+  "dgSpecHash": "kBqoY+R0ijWd+klgfJ0LAqc0fXmTVDbWqgMHixYFdAj7/jRoDF2Uw6vMoHrbq4BrV4nPxRh7iOCSHOWOq3q97A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
+  "projectFilePath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

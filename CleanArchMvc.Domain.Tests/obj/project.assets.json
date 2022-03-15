@@ -6069,11 +6069,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
       "projectName": "CleanArchMvc.Domain.Tests",
-      "projectPath": "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\p017334\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6096,8 +6096,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
-              "projectPath": "C:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+            "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
+              "projectPath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
             }
           }
         }

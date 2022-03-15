@@ -766,3 +766,6 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\M
 C:\Users\p017334\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\p017334\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\p017334\source\repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
