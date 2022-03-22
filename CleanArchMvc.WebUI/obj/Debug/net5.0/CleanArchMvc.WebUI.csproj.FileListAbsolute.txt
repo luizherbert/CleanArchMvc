@@ -773,3 +773,6 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\M
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs

@@ -12,6 +12,12 @@ namespace CleanArchMvc.Infra.Data.Identity
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
+
+        public SeedUserRoleInitial(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
+        {
+            _userManager = userManager;
+            _roleManager = roleManager;
+        }
         public void SeedRoles()
         {
             if (!_roleManager.RoleExistsAsync("User").Result)
@@ -21,6 +27,8 @@ namespace CleanArchMvc.Infra.Data.Identity
                 role.NormalizedName = "USER";
                 var result = _roleManager.CreateAsync(role).Result;
             }
+
+            Console.WriteLine(!_roleManager.RoleExistsAsync("User").Result);
 
             if (!_roleManager.RoleExistsAsync("Admin").Result)
             {
@@ -46,7 +54,7 @@ namespace CleanArchMvc.Infra.Data.Identity
                     SecurityStamp = Guid.NewGuid().ToString()
                 };
 
-                var result = _userManager.CreateAsync(user, "123456").Result;
+                var result = _userManager.CreateAsync(user, "123456Aa#").Result;
                 if (result.Succeeded)
                 {
                     _userManager.AddToRoleAsync(user, "User").Wait();
@@ -66,7 +74,7 @@ namespace CleanArchMvc.Infra.Data.Identity
                     SecurityStamp = Guid.NewGuid().ToString()
                 };
 
-                var result = _userManager.CreateAsync(user, "123456").Result;
+                var result = _userManager.CreateAsync(user, "123456Aa#").Result;
                 if (result.Succeeded)
                 {
                     _userManager.AddToRoleAsync(user, "Admin").Wait();

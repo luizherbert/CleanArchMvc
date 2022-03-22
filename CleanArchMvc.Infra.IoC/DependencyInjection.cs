@@ -36,14 +36,14 @@ namespace CleanArchMvc.Infra.IoC
                 options.AccessDeniedPath = "/Account/Login";
             });
 
-            services.AddScoped<IAuthenticate, AuthenticateService>();
-            services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
-
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
 
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IProductService, ProductService>();
+
+            services.AddScoped<IAuthenticate, AuthenticateService>();
+            services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
 
             services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
 

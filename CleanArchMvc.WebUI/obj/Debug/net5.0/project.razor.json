@@ -15659,8 +15659,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Categories\\Details.cshtml",
       "TargetPath": "Views\\Categories\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\p017334\\source\\repos\\CleanArchMvc\\CleanArchMvc.WebUI\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
