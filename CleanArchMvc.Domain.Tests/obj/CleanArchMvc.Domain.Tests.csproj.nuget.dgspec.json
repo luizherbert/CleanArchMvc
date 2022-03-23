@@ -24,15 +24,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
               "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
                 "projectPath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
@@ -47,8 +47,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -56,13 +56,13 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.9.4, )"
+              "version": "[17.1.0, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.2, )"
+              "version": "[3.1.2, )"
             },
             "xunit": {
               "target": "Package",
@@ -114,15 +114,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -133,8 +133,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

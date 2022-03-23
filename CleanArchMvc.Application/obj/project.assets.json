@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "AutoMapper/11.0.1": {
         "type": "package",
         "dependencies": {
@@ -46,7 +46,7 @@
       },
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },
@@ -178,7 +178,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "AutoMapper >= 11.0.1",
       "CleanArchMvc.Domain >= 1.0.0",
       "MediatR >= 10.0.1"
@@ -209,15 +209,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
               "projectPath": "C:\\Users\\p017334\\Source\\Repos\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
@@ -232,8 +232,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
