@@ -667,7 +667,6 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\M
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -776,3 +775,8 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\M
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\p017334\Source\Repos\CleanArchMvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

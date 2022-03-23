@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\CleanArchMvc.Application",
+    "\\CleanArchMvc.Application\\DTOs",
     "\\CleanArchMvc.Infra.Data",
     "\\CleanArchMvc.Infra.Data\\Identity"
   ],

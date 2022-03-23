@@ -35,7 +35,6 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Microsoft.Ide
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -80,3 +79,4 @@ C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\obj\Debug\net5.0\CleanArchMvc.
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\obj\Debug\net5.0\ref\CleanArchMvc.WebAPI.dll
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\obj\Debug\net5.0\CleanArchMvc.WebAPI.pdb
 C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\obj\Debug\net5.0\CleanArchMvc.WebAPI.genruntimeconfig.cache
+C:\Users\p017334\Source\Repos\CleanArchMvc\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
